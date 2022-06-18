@@ -22,6 +22,13 @@ To analyze campaign outcomes based on their launch dates and their funding goals
 
 The challenges I encountered were my own fault caused by me not following the very clear instructions that were provided.  I struggled with building the pivot table because I forgot how you could manipulate the fields.  I never could figure out where I made an error in my Kickstarter sheet so I could make my line graph match the example.  I also struggled with using the ```COUNTIF()``` function because I was using ```COUNTIF()``` instead of ```COUNTIFS()```.  I overcame all of these challenges (except the line graph issue) by staying patient with myself and rereading the instructions.  I definitely started out, in my head, making this harder than it really was.  I have always believed, and teach my staff, that you learn best through your mistakes so I just allowed myself the time to make the mistakes until I figured it out.  I really enjoyed the process even if I wanted to bang my head on my desk a few times.
 
+### Screenshots
+![Correct Line Chart](https://raw.githubusercontent.com/Lauramasonjar/kickstarter-analysis/main/Screen%20Shot%20Correct%20Line%20Chart.png)
+
+![Correct Pivot Table](https://raw.githubusercontent.com/Lauramasonjar/kickstarter-analysis/main/Screen%20Shot%20Correct%20Pivot%20Table.png)
+
+![Inccorrect Line Chart & Pivot Table](https://raw.githubusercontent.com/Lauramasonjar/kickstarter-analysis/main/Screen%20Shot%20Theatre%20Outcomes%20by%20Launch%20Date.png)
+
 ## Results:
 
 ·      Two conclusions I can draw about the Theatres Outcomes by Launch Date are that were more considerably more successful outcomes than failed or canceled and despite my numbers being off in each month, the totals all match.
